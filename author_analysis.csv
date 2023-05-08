@@ -1,0 +1,876 @@
+author;country;continent;year_of_publication;type;language
+a. a. david;South Africa;Africa;2016;Corresponding;english
+a. a. david;United States of America;North America;2020;Corresponding;english
+a. a. ravara;Portugal;Europe;2002;Co-author;english
+a. a. rowden;United States of America;North America;2013;Co-author;english
+a. amor;Argentina;LAC;1975;Corresponding;english
+a. audizijonyte;Finland;Europe;2008;Corresponding;english
+a. audzijonyte;United States of America;North America;2010;Corresponding;english
+a. bakalem;Algeria;Africa;2020;Co-author;english
+a. brandt;Germany;Europe;1999;Corresponding;english
+a. brandt;Germany;Europe;2007;Corresponding;english
+a. brandt;Germany;Europe;2009;Corresponding;english
+a. brown;United Kingdom;Europe;2009;Co-author;english
+a. c. stephen;United States of America;North America;1969;Corresponding;english
+a. c. z. amaral;Brazil;LAC;1989;Co-author;portuguese
+a. castelli;Italy;Europe;2000;Co-author;english
+a. e. aitken;Canada;North America;1993;Corresponding;english
+a. f. ghasemi;Iran;Asia;2013;Corresponding;english
+a. ferrando;Argentina;LAC;2017;Co-author;spanish
+a. g. carey jr;United States of America;North America;1980;Co-author;english
+a. g. glover;United Kingdom;Europe;2008;Corresponding;english
+a. g. glover;United Kingdom;Europe;2001;Corresponding;english
+a. g. glover;United Kingdom;Europe;2009;Co-author;english
+a. g. glover;United Kingdom;Europe;2016;Co-author;english
+a. g. glover;United States of America;North America;2002;Corresponding;english
+a. g. mcarthur;United States of America;North America;1998;Co-author;english
+a. giangrande;Italy;Europe;2004;Corresponding;english
+a. giangrande;Italy;Europe;2007;Corresponding;english
+a. giangrande;Italy;Europe;1994;Co-author;english
+a. giangrande;Italy;Europe;2005;Co-author;english
+a. giongo;Brazil;LAC;2016;Co-author;english
+a. hilario;Portugal;Europe;2011;Corresponding;english
+a. j. gooday;United Kingdom;Europe;2007;Co-author;english
+a. j. gooday;United Kingdom;Europe;2015;Co-author;english
+a. j. kohn;United States of America;North America;1973;Corresponding;english
+a. jam;Iran;Asia;2013;Co-author;english
+a. janssen;Germany;Europe;2019;Corresponding;english
+a. l. einfeldt;Canada;North America;2014;Co-author;english
+a. loya-fernandez;Spain;Europe;2011;Co-author;english
+a. m. san martin;Germany;Europe;2005;Corresponding;english
+a. m. sole-kava;Brazil;LAC;2010;Co-author;english
+a. maiorova;Russia;Europe;2016;Co-author;english
+a. maiorova;United States of America;North America;2012;Co-author;english
+a. martinez;Denmark;Europe;2017;Co-author;english
+a. meyer;Germany;Europe;2008;Co-author;english
+a. molcard;Italy;Europe;2003;Corresponding;english
+a. montiel;Chile;LAC;2016;Corresponding;english
+a. montiel;Germany;Europe;2005;Corresponding;english
+a. montiel;Chile;LAC;2009;Corresponding;spanish
+a. montiel;Chile;LAC;2004;Corresponding;spanish
+a. n. mironov;Russia;Europe;1985;Co-author;english
+a. nygren;Sweden;Europe;2018;Corresponding;english
+a. nygren;Sweden;Europe;2014;Corresponding;english
+a. r. mahon;United States of America;North America;2009;Corresponding;english
+a. r. mahon;United States of America;North America;2010;Co-author;english
+a. r. mahon;United States of America;North America;2011;Co-author;english
+a. r. s. garraffoni;Brazil;LAC;2006;Corresponding;english
+a. r. thurber;United States of America;North America;2013;Co-author;english
+a. richter;Spain;Europe;2017;Co-author;english
+a. s. maiorova;Russia;Europe;2020;Corresponding;english
+a. s. maiorova;Russia;Europe;2018;Corresponding;english
+a. schulze;United States of America;North America;2006;Corresponding;english
+a. schulze;United States of America;North America;2012;Corresponding;english
+a. t. critchley;South Africa;Africa;1985;Corresponding;english
+a. v. adrianov;Russia;Europe;2020;Co-author;english
+a. v. adrianov;Russia;Europe;2018;Co-author;english
+a. v. badyaev;United States of America;North America;1998;Co-author;english
+a. v. sikorski;Norway;Europe;2016;Co-author;english
+a. van wormhoudt;France;Europe;2017;Co-author;english
+a. vasallo;Mexico;LAC;2014;Co-author;spanish
+a. vink;Germany;Europe;2019;Co-author;english
+a. zenetos;Greece;Europe;1999;Co-author;english
+b. akesson;Sweden;Europe;2005;Corresponding;english
+b. alvarez;New Zealand;Oceania;1999;Co-author;english
+b. bett;United Kingdom;Europe;2001;Co-author;english
+b. c. gonzalez;Denmark;Europe;2017;Corresponding;english
+b. e. narayanaswamy;United Kingdom;Europe;2004;Co-author;english
+b. ebbe;Germany;Europe;2007;Co-author;english
+b. ebbe;Germany;Europe;2014;Co-author;english
+b. ebbe;Germany;Europe;2010;Co-author;english
+b. f. mutaquilha;Brazil;LAC;2019;Co-author;english
+b. faure;France;Europe;2009;Co-author;english
+b. hilbig;Germany;Europe;2004;Corresponding;english
+b. hilbig;Germany;Europe;2004;Co-author;english
+b. hilbig;Germany;Europe;2005;Co-author;english
+b. hilbig;United Kingdom;Europe;1999;Co-author;english
+b. hilbig;United States of America;North America;1994;Corresponding;english
+b. ingole;India;Asia;2017;Corresponding;english
+b. ingole;India;Asia;2016;Co-author;english
+b. la porta;Italy;Europe;2011;Corresponding;english
+b. mikac;Croatia;Europe;2010;Co-author;english
+b. quiroz-martinez;France;Europe;2011;Corresponding;english
+b. r. loveday;United Kingdom;Europe;2016;Co-author;english
+b. s. koh;South Korea;Asia;2006;Co-author;english
+b. trabucco;Italy;Europe;2017;Co-author;english
+c. a. matthee;South Africa;Africa;2016;Co-author;english
+c. a. matthee;United States of America;North America;2016;Co-author;english
+c. a. simon;South Africa;Africa;2016;Corresponding;english
+c. a. styan;Australia;Oceania;2017;Corresponding;english
+c. arteaga-florez;Colombia;LAC;2014;Corresponding;english
+c. arvanitidis;Greece;Europe;2002;Corresponding;english
+c. arvanitidis;Greece;Europe;2009;Corresponding;english
+c. bleidorn;Germany;Europe;2006;Corresponding;english
+c. bleidorn;Germany;Europe;2008;Corresponding;english
+c. chen;Japan;Asia;2019;Co-author;english
+c. d. berrisford;South Africa;Africa;1969;Corresponding;english
+c. d. mcquaid;South Africa;Africa;2010;Co-author;english
+c. d. mcquaid;South Africa;Africa;2008;Co-author;english
+c. e. hernandez;Chile;LAC;2005;Corresponding;english
+c. e. hernandez;Chile;LAC;2006;Co-author;english
+c. e. hernandez;Chile;LAC;2008;Co-author;english
+c. e. hernandez;Chile;LAC;2001;Corresponding;spanish
+c. f. mccluskey;Australia;Oceania;2017;Co-author;english
+c. fauvelot;Italy;Europe;2009;Co-author;english
+c. h. thorp;United Kingdom;Europe;1989;Co-author;english
+c. h. thorp;United Kingdom;Europe;1985;Co-author;english
+c. huang;United States of America;North America;2016;Co-author;english
+c. i. fraser;Australia;Oceania;2015;Corresponding;english
+c. j. glasby;Australia;Oceania;2005;Corresponding;english
+c. j. glasby;Australia;Oceania;2013;Corresponding;english
+c. j. glasby;Australia;Oceania;2014;Corresponding;english
+c. j. glasby;Australia;Oceania;2006;Corresponding;english
+c. j. glasby;Australia;Oceania;2008;Corresponding;english
+c. j. glasby;Australia;Oceania;2015;Co-author;english
+c. j. glasby;Australia;Oceania;1991;Co-author;english
+c. j. glasby;New Zealand;Oceania;1999;Corresponding;english
+c. l. griffiths;South Africa;Africa;2012;Corresponding;english
+c. l. van dover;United States of America;North America;2001;Corresponding;english
+c. l. van dover;United States of America;North America;2002;Corresponding;english
+c. m. carr;Canada;North America;2012;Corresponding;english
+c. m. carr;Canada;North America;2011;Corresponding;english
+c. m. carr;Canada;North America;2011;Co-author;english
+c. m. young;United States of America;North America;2012;Corresponding;english
+c. m. young;United States of America;North America;2003;Co-author;english
+c. marco-mendez;Spain;Europe;2011;Co-author;english
+c. meyer;Germany;Europe;2020;Co-author;english
+c. r. german;United Kingdom;Europe;2002;Co-author;english
+c. r. german;United States of America;North America;2007;Co-author;english
+c. r. s. b. frojan;United Kingdom;Europe;2009;Co-author;english
+c. r. smith;United States of America;North America;2006;Corresponding;english
+c. r. smith;United States of America;North America;2008;Co-author;english
+c. r. smith;United States of America;North America;2002;Co-author;english
+c. rios;Chile;LAC;2004;Co-author;spanish
+c. s. bremec;Argentina;LAC;2004;Corresponding;english
+c. s. bremec;Argentina;LAC;2006;Corresponding;english
+c. s. bremec;Argentina;LAC;2000;Corresponding;english
+c. s. bremec;Argentina;LAC;2010;Corresponding;english
+c. s. g. santos;Brazil;LAC;2000;Corresponding;portuguese
+c. sanders;United States of America;North America;2016;Co-author;english
+c. sturmbauer;Austria;Europe;1998;Corresponding;english
+c. sturmbauer;Austria;Europe;1997;Co-author;english
+c. t. stuart;United States of America;North America;2017;Corresponding;english
+c. von soosten;Germany;Europe;1998;Corresponding;english
+c. wang;China;Asia;2019;Corresponding;english
+c. wang;China;Asia;2018;Corresponding;english
+c. watson;Australia;Oceania;2015;Corresponding;english
+c. watson;Australia;Oceania;2013;Co-author;english
+c. zakas;United States of America;North America;2012;Corresponding;english
+d. a. bowden;New Zealand;Oceania;2013;Corresponding;english
+d. a. costa;Brazil;LAC;2017;Corresponding;english
+d. a. cowart;United States of America;North America;2016;Corresponding;english
+d. a. cowart;United States of America;North America;2010;Co-author;english
+d. a. giberto;Argentina;LAC;2004;Co-author;english
+d. a. giberto;Argentina;LAC;2006;Co-author;english
+d. a. lancellotti;Chile;LAC;2000;Corresponding;spanish
+d. a. salas-de leon;Mexico;LAC;2013;Co-author;english
+d. c. stefan;United States of America;North America;1974;Co-author;english
+d. d. williams;Canada;North America;2004;Corresponding;english
+d. desbruyeres;France;Europe;1998;Co-author;english
+d. fiege;Germany;Europe;2010;Corresponding;english
+d. fiege;Germany;Europe;2009;Corresponding;english
+d. fiege;Germany;Europe;1996;Co-author;english
+d. fiege;Germany;Europe;2014;Co-author;english
+d. fiege;Germany;Europe;2003;Co-author;english
+d. fornari;United States of America;North America;2001;Co-author;english
+d. g. mcknight;New Zealand;Oceania;1996;Co-author;english
+d. gerdes;Germany;Europe;2005;Co-author;english
+d. gerdes;Germany;Europe;2016;Co-author;english
+d. j. reish;United States of America;North America;1984;Co-author;english
+d. jollivet;France;Europe;2010;Corresponding;english
+d. jollivet;France;Europe;1998;Corresponding;english
+d. jollivet;France;Europe;2005;Co-author;english
+d. jollivet;United Kingdom;Europe;1998;Corresponding;english
+d. k. coykendall;United States of America;North America;2011;Co-author;english
+d. lago-barcia;Brazil;LAC;2019;Co-author;english
+d. le guen;France;Europe;2010;Co-author;english
+d. m. dauer;United States of America;North America;2009;Co-author;english
+d. martin;Spain;Europe;2006;Corresponding;english
+d. martin;Spain;Europe;2017;Co-author;english
+d. martin;Spain;Europe;2019;Co-author;english
+d. maurer;United States of America;North America;1984;Corresponding;english
+d. mchugh;United States of America;North America;2005;Corresponding;english
+d. mchugh;United States of America;North America;1998;Co-author;english
+d. minchin;Lithuania;Europe;2017;Co-author;english
+d. r. bybee;United States of America;North America;2010;Co-author;english
+d. r. dikaeva;Russia;Europe;2018;Corresponding;english
+d. s. wethey;United States of America;North America;2011;Corresponding;english
+d. s. wethey;United States of America;North America;2016;Corresponding;english
+d. s. wethey;United States of America;North America;2008;Corresponding;english
+d. s. wethey;United States of America;North America;2014;Co-author;english
+d. stateczny;Germany;Europe;2017;Co-author;english
+d. zavodinik;Croatia;Europe;1975;Corresponding;english
+d. zavodnik;Croatia;Europe;1986;Co-author;english
+d. zhang;China;Asia;2018;Co-author;english
+e. a. frolova;Russia;Europe;2018;Co-author;english
+e. b. cutler;United States of America;North America;1975;Corresponding;english
+e. b. cutler;United States of America;North America;1973;Corresponding;english
+e. b. cutler;United States of America;North America;1984;Corresponding;english
+e. b. cutler;United States of America;North America;1985;Corresponding;english
+e. b. cutler;United States of America;North America;1987;Corresponding;english
+e. b. cutler;United States of America;North America;1989;Corresponding;english
+e. b. cutler;United States of America;North America;1980;Corresponding;english
+e. b. cutler;United States of America;North America;1979;Corresponding;english
+e. b. cutler;United States of America;North America;1969;Co-author;english
+e. b. cutler;United States of America;North America;1990;Co-author;english
+e. b. cutler;United States of America;North America;1974;Co-author;english
+e. b. cutler;United States of America;North America;2000;Co-author;english
+e. bonsdorff;Finland;Europe;2006;Corresponding;english
+e. borda;United States of America;North America;2013;Corresponding;english
+e. borda;United States of America;North America;2012;Co-author;english
+e. borda;United States of America;North America;2017;Co-author;english
+e. c. s. bremec;Argentina;LAC;1994;Co-author;english
+e. c. southward;United Kingdom;Europe;1996;Corresponding;english
+e. e. cordes;United States of America;North America;2010;Corresponding;english
+e. e. cordes;United States of America;North America;2007;Corresponding;english
+e. eizirik;Brazil;LAC;2016;Corresponding;english
+e. h. morgado;Brazil;LAC;1989;Corresponding;portuguese
+e. k. kupriyanova;Australia;Oceania;2017;Corresponding;english
+e. k. kupriyanova;Australia;Oceania;2009;Co-author;english
+e. k. kupriyanova;Australia;Oceania;2017;Co-author;english
+e. k. kupriyanova;Australia;Oceania;2018;Co-author;english
+e. k. kupriyanova;Japan;Asia;2010;Corresponding;english
+e. k. kupriyanova;United States of America;North America;1998;Corresponding;english
+e. keppel;United States of America;North America;2017;Co-author;english
+e. l. becker;United States of America;North America;2010;Co-author;english
+e. leppakoski;Finland;Europe;2001;Corresponding;english
+e. lopez;Spain;Europe;2017;Corresponding;english
+e. lopez;Spain;Europe;2011;Co-author;english
+e. lopez;Spain;Europe;2001;Co-author;spanish
+e. nishi;Japan;Asia;2009;Corresponding;english
+e. nishi;Japan;Asia;2010;Co-author;english
+e. p. kovalenko;Russia;Europe;2016;Co-author;english
+e. park;South Korea;Asia;2016;Co-author;english
+e. quiroga;Chile;LAC;2016;Co-author;english
+e. r. mcmullin;United States of America;North America;2003;Corresponding;english
+e. ramirez-llodra;Norway;Europe;2007;Corresponding;english
+e. rota;Italy;Europe;2010;Corresponding;english
+e. tarifeno-silva;Chile;LAC;2018;Corresponding;english
+e. tarifeno-silva;Chile;LAC;1978;Corresponding;spanish
+e. thiebaut;France;Europe;1994;Co-author;english
+e. w. knight-jones;United Kingdom;Europe;1979;Co-author;english
+e. w. knight-jones;United Kingdom;Europe;1991;Co-author;english
+e. wenink;United States of America;North America;2005;Co-author;english
+e. wong;Australia;Oceania;2000;Co-author;english
+e. wong;Australia;Oceania;2016;Co-author;english
+e. wong;Australia;Oceania;2018;Co-author;english
+e. wong;Australia;Oceania;2017;Co-author;english
+f. a. silva;Brazil;LAC;2017;Co-author;english
+f. althaus;Australia;Oceania;2018;Co-author;english
+f. alvarez;Mexico;LAC;2014;Corresponding;spanish
+f. bertasi;Italy;Europe;2017;Corresponding;english
+f. constantini;Italy;Europe;2009;Co-author;english
+f. de nicola;Italy;Europe;2010;Co-author;english
+f. dufresne;Canada;North America;2003;Co-author;english
+f. f. aguilera;Chile;LAC;1999;Co-author;english
+f. g. pannacciulli;Italy;Europe;2015;Co-author;english
+f. g. schmitt;France;Europe;2011;Co-author;english
+f. gentil;France;Europe;2006;Co-author;english
+f. gentil;France;Europe;2005;Co-author;english
+f. h. nichols;United States of America;North America;1970;Corresponding;english
+f. maltagliati;Italy;Europe;2020;Corresponding;english
+f. maltagliati;Italy;Europe;2015;Co-author;english
+f. nunes;France;Europe;2017;Corresponding;english
+f. p. lima;United States of America;North America;2010;Co-author;english
+f. p. patti;Italy;Europe;2001;Corresponding;english
+f. p. patti;Italy;Europe;2009;Corresponding;english
+f. p. patti;Italy;Europe;2007;Co-author;english
+f. pleijel;Sweden;Europe;2018;Co-author;english
+f. scarpa;Italy;Europe;2020;Co-author;english
+f. viard;France;Europe;2006;Co-author;english
+f. viard;France;Europe;2003;Co-author;english
+f. x. oyarzun;United States of America;North America;2011;Co-author;english
+g. bachelet;France;Europe;2006;Co-author;english
+g. bellan;France;Europe;1991;Corresponding;english
+g. bellan;France;Europe;1994;Co-author;english
+g. bellan;France;Europe;2006;Co-author;english
+g. bellan;Greece;Europe;2002;Co-author;english
+g. busoni;Italy;Europe;2019;Co-author;english
+g. buzhinskaya;Russia;Europe;1991;Co-author;english
+g. cantone;Italy;Europe;2000;Corresponding;english
+g. cantone;Italy;Europe;2001;Corresponding;english
+g. cantone;Italy;Europe;2003;Corresponding;english
+g. cantone;Italy;Europe;1997;Corresponding;english
+g. d. f. wilson;Australia;Oceania;1998;Co-author;english
+g. genzano;Argentina;LAC;2010;Co-author;english
+g. giribet;United States of America;North America;2010;Co-author;english
+g. hartmann-schroder;Germany;Europe;1989;Corresponding;english
+g. kobayashi;Japan;Asia;2018;Corresponding;english
+g. l. j. paterson;United Kingdom;Europe;2009;Corresponding;english
+g. l. j. paterson;United Kingdom;Europe;1998;Corresponding;english
+g. l. j. paterson;United Kingdom;Europe;1995;Corresponding;english
+g. l. j. paterson;United Kingdom;Europe;2002;Co-author;english
+g. l. leighton;Chile;LAC;1999;Co-author;english
+g. lenaers;France;Europe;1992;Corresponding;english
+g. m. n'siala;Italy;Europe;2009;Co-author;english
+g. marcano;Portugal;Europe;2002;Co-author;english
+g. munoz;Chile;LAC;2001;Co-author;spanish
+g. ni;China;Asia;2014;Co-author;english
+g. p. wells;United Kingdom;Europe;1964;Corresponding;english
+g. paterson;United Kingdom;Europe;2001;Co-author;english
+g. purschke;Germany;Europe;2020;Co-author;english
+g. r. bilyard;United States of America;North America;1980;Corresponding;english
+g. san martin;Spain;Europe;1984;Corresponding;english
+g. san martin;Spain;Europe;2001;Co-author;english
+g. san martin;Spain;Europe;1992;Co-author;english
+g. san martin;Spain;Europe;2001;Co-author;spanish
+g. t. rowe;United States of America;North America;2017;Co-author;english
+g. v. helgason;Iceland;Europe;2011;Co-author;english
+g. v. murina;Ukraine;Europe;1999;Corresponding;english
+g. v. murina;Ukraine;Europe;1986;Corresponding;english
+g. v. murina;Ukraine;Europe;1975;Corresponding;english
+g. v. murina;Ukraine;Europe;2007;Co-author;english
+g. v. murina;Ukraine;Europe;2017;Co-author;english
+g. v. murina;Ukraine;Europe;2005;Co-author;english
+g. valvassori;Italy;Europe;2017;Corresponding;english
+g. vieira;Spain;Europe;1999;Co-author;spanish
+g. w. rouse;United States of America;North America;2018;Corresponding;english
+g. w. rouse;United States of America;North America;2013;Corresponding;english
+g. w. rouse;United States of America;North America;2013;Co-author;english
+g. w. rouse;United States of America;North America;2008;Co-author;english
+g. weinmayr;France;Europe;2003;Co-author;english
+g. y. kawauchi;United States of America;North America;2010;Corresponding;english
+h. a. t. hove;Netherlands;Europe;2011;Co-author;english
+h. c. b. petersen;Denmark;Europe;2017;Co-author;english
+h. deubel;Germany;Europe;2000;Corresponding;english
+h. deubel;Germany;Europe;2006;Co-author;english
+h. k. dean;United States of America;North America;2012;Corresponding;english
+h. k. dean;United States of America;North America;2010;Corresponding;english
+h. k. dean;United States of America;North America;2000;Co-author;english
+h. k. mahon;United States of America;North America;2009;Co-author;english
+h. l. hsieh;Taiwan;Asia;2006;Co-author;english
+h. link;Germany;Europe;2009;Co-author;english
+h. liu;China;Asia;2012;Co-author;english
+h. lu;United States of America;North America;2000;Corresponding;english
+h. m. m. meier;Sweden;Europe;2016;Co-author;english
+h. paxton;Australia;Oceania;1986;Corresponding;english
+h. paxton;Australia;Oceania;2005;Co-author;english
+h. r. gomez;Colombia;LAC;1987;Co-author;spanish
+h. rumohr;Germany;Europe;2009;Co-author;english
+h. schmidt;Germany;Europe;1999;Corresponding;english
+h. schmidt;Germany;Europe;1998;Co-author;english
+h. stuckas;Germany;Europe;2019;Co-author;english
+h. tosuji;Japan;Asia;2010;Corresponding;english
+h. tosuji;Japan;Asia;2019;Corresponding;english
+h. wiklund;United Kingdom;Europe;2015;Co-author;english
+h. wiklund;United Kingdom;Europe;2017;Co-author;english
+h. wilkens;Germany;Europe;2009;Corresponding;english
+h. zibrowius;France;Europe;1989;Corresponding;english
+i. a. jirkov;Russia;Europe;2012;Corresponding;english
+i. a. jirkov;Russia;Europe;1985;Corresponding;english
+i. alalykina;Russia;Europe;2013;Corresponding;english
+i. alalykina;Russia;Europe;2018;Co-author;english
+i. burghardt;Australia;Oceania;2017;Co-author;english
+i. fetzer;Germany;Europe;2006;Co-author;english
+i. kruse;United States of America;North America;2006;Co-author;english
+i. munoz;Spain;Europe;2017;Co-author;english
+i. ovcarenko;Lithuania;Europe;2008;Co-author;english
+i. p. williams;United States of America;North America;1997;Co-author;english
+i. silva-morales;Mexico;LAC;2019;Corresponding;english
+j. a. addison;Canada;North America;2014;Corresponding;english
+j. a. blake;United States of America;North America;2004;Corresponding;english
+j. a. blake;United States of America;North America;1983;Corresponding;english
+j. a. blake;United States of America;North America;1997;Co-author;english
+j. a. de-la-ossa-carretero;Spain;Europe;2013;Co-author;english
+j. a. kongsrud;Norway;Europe;2018;Co-author;english
+j. a. leon-gonzalez;Mexico;LAC;2000;Corresponding;spanish
+j. a. sanchez;Spain;Europe;2010;Co-author;spanish
+j. a. sibaja-cordero;Costa Rica;LAC;2012;Co-author;english
+j. a. sibaja-cordero;Costa Rica;LAC;2010;Co-author;english
+j. a. simonetti;Chile;LAC;2000;Co-author;english
+j. a. vasquez;Chile;LAC;2000;Co-author;spanish
+j. b. ahrens;United States of America;North America;2012;Corresponding;english
+j. b. bell;United Kingdom;Europe;2015;Co-author;english
+j. bouwmeester;Saudi Arabia;Asia;2016;Co-author;english
+j. c. dauvin;France;Europe;2008;Corresponding;english
+j. c. dauvin;France;Europe;2006;Corresponding;english
+j. c. dauvin;France;Europe;2020;Corresponding;english
+j. c. dauvin;France;Europe;1994;Corresponding;english
+j. c. dauvin;France;Europe;2003;Co-author;english
+j. c. dauvin;France;Europe;1991;Co-author;english
+j. c. dauvin;France;Europe;2000;Co-author;english
+j. c. dauvin;France;Europe;2011;Co-author;english
+j. cahill;United States of America;North America;2020;Co-author;english
+j. cerca;Norway;Europe;2020;Corresponding;english
+j. cortes;Costa Rica;LAC;2012;Co-author;english
+j. d. dibattista;Saudi Arabia;Asia;2016;Corresponding;english
+j. d. hardege;United Kingdom;Europe;2017;Co-author;english
+j. d. knowles;United States of America;North America;2005;Co-author;english
+j. d. kudenov;United States of America;North America;2013;Co-author;english
+j. d. williams;United States of America;North America;2001;Corresponding;english
+j. drazen;United States of America;North America;2006;Co-author;english
+j. e. cartes;Spain;Europe;2014;Co-author;english
+j. e. tanner;Australia;Oceania;2018;Corresponding;english
+j. f. gobin;Trinidad and Tobago;LAC;2006;Corresponding;english
+j. farber-lorda;Mexico;LAC;2006;Co-author;english
+j. ferrario;Italy;Europe;2017;Corresponding;english
+j. fournier;Canada;North America;1993;Co-author;english
+j. gong;China;Asia;2018;Co-author;english
+j. h. bailey;United Kingdom;Europe;1970;Corresponding;english
+j. h. bailey;United Kingdom;Europe;1969;Corresponding;english
+j. h. bailey;United Kingdom;Europe;1968;Corresponding;english
+j. harle;United Kingdom;Europe;2017;Co-author;english
+j. hashimoto;Japan;Asia;1995;Corresponding;english
+j. hayakawa;Japan;Asia;2017;Co-author;english
+j. i. canete;Chile;LAC;1999;Corresponding;english
+j. i. canete;Chile;LAC;2004;Corresponding;english
+j. i. carvajal;Australia;Oceania;2018;Co-author;english
+j. i. saiz-salinas;Spain;Europe;1999;Corresponding;english
+j. i. saiz-salinas;Spain;Europe;2000;Corresponding;english
+j. i. saiz-salinas;Spain;Europe;2018;Corresponding;english
+j. i. saiz-salinas;Spain;Europe;2014;Corresponding;english
+j. i. saiz-salinas;Spain;Europe;1996;Corresponding;english
+j. i. saiz-salinas;Spain;Europe;2007;Corresponding;english
+j. i. saiz-salinas;Spain;Europe;1995;Corresponding;english
+j. i. saiz-salinas;Spain;Europe;2016;Co-author;english
+j. j. a. laverde-castillo;Colombia;LAC;1987;Corresponding;spanish
+j. j. a. laverde-castillo;Colombia;LAC;1986;Corresponding;spanish
+j. j. ramirez-restrepo;Colombia;LAC;2016;Co-author;english
+j. junoy;Spain;Europe;1992;Corresponding;spanish
+j. koczula;Germany;Europe;2017;Co-author;english
+j. l. staton;United States of America;North America;1999;Corresponding;english
+j. langenack;Italy;Europe;2019;Corresponding;english
+j. langeneck;Italy;Europe;2020;Co-author;english
+j. m. alfaro-lucas;Brazil;LAC;2016;Co-author;english
+j. m. grebmeier;United States of America;North America;2018;Co-author;english
+j. m. guerra-garcia;Spain;Europe;2010;Corresponding;spanish
+j. m. hill;South Africa;Africa;2008;Corresponding;english
+j. m. orensanz;United States of America;North America;1990;Corresponding;english
+j. m. vieitez;Spain;Europe;1992;Co-author;spanish
+j. makela;Finland;Europe;1998;Co-author;english
+j. moreira;Spain;Europe;2011;Co-author;english
+j. nunez;Spain;Europe;1992;Co-author;english
+j. nunez;Spain;Europe;2001;Co-author;english
+j. nunez;Spain;Europe;1999;Corresponding;spanish
+j. p. wares;United States of America;North America;2012;Co-author;english
+j. parapar;Spain;Europe;2011;Corresponding;english
+j. parapar;Spain;Europe;2018;Co-author;english
+j. park;South Korea;Asia;2014;Co-author;english
+j. r. doucet;Canada;North America;2014;Co-author;english
+j. r. hall;United States of America;North America;1975;Co-author;english
+j. r. stevens;United Kingdom;Europe;2018;Corresponding;english
+j. s. khim;South Korea;Asia;2014;Corresponding;english
+j. sarkka;Finland;Europe;1998;Corresponding;english
+j. sicinski;Poland;Europe;2002;Corresponding;english
+j. sicinski;Poland;Europe;1986;Corresponding;english
+j. sicinski;Poland;Europe;2007;Co-author;english
+j. sorensen;Denmark;Europe;2017;Corresponding;english
+j. stiller;United States of America;North America;2013;Co-author;english
+j. t. copley;United Kingdom;Europe;2016;Corresponding;english
+j. tajadura;Spain;Europe;2018;Co-author;english
+j. wage;United Kingdom;Europe;2017;Co-author;english
+j. zanol;Brazil;LAC;2017;Co-author;english
+k. a. rice;United States of America;North America;2008;Co-author;english
+k. de;India;Asia;2017;Co-author;english
+k. doble;United States of America;North America;1979;Co-author;english
+k. fauchald;United States of America;North America;1984;Corresponding;english
+k. fauchald;United States of America;North America;2000;Co-author;english
+k. fitzhugh;United States of America;North America;1994;Corresponding;english
+k. fujikura;Japan;Asia;1995;Co-author;english
+k. g. speer;United States of America;North America;2002;Co-author;english
+k. jurss;Germany;Europe;1998;Co-author;english
+k. linse;United Kingdom;Europe;2009;Co-author;english
+k. linse;United Kingdom;Europe;2018;Co-author;english
+k. m. halanych;United States of America;North America;2011;Corresponding;english
+k. olu;France;Europe;1998;Co-author;english
+k. s. gibb;Australia;Oceania;2013;Co-author;english
+k. tanaka;Japan;Asia;2009;Co-author;english
+k. van damme;United Kingdom;Europe;2014;Co-author;english
+k. xu;China;Asia;2019;Corresponding;english
+l. a. hurtado;United States of America;North America;2004;Corresponding;english
+l. azevedo;Portugal;Europe;2011;Co-author;english
+l. c. woodall;United Kingdom;Europe;2018;Co-author;english
+l. castriota;Italy;Europe;2016;Co-author;english
+l. e. timm;United States of America;North America;2012;Co-author;english
+l. f. carrera-parra;Mexico;LAC;2005;Corresponding;english
+l. faroni-perez;France;Europe;2017;Co-author;english
+l. gonzalez-ortiz;Mexico;LAC;1997;Corresponding;english
+l. gonzalez-ortiz;Mexico;LAC;1994;Co-author;spanish
+l. gonzalez-ortiz;Mexico;LAC;2000;Co-author;spanish
+l. grossi;Italy;Europe;2017;Co-author;english
+l. huang;China;Asia;2018;Corresponding;english
+l. kong;China;Asia;2014;Co-author;english
+l. m. ferrero-vicente;Spain;Europe;2011;Corresponding;english
+l. m. ferrero-vicente;Spain;Europe;2016;Corresponding;english
+l. m. ferrero-vicente;Spain;Europe;2013;Corresponding;english
+l. m. gunton;United Kingdom;Europe;2015;Corresponding;english
+l. m. smith;Australia;Oceania;2015;Co-author;english
+l. marsh;United Kingdom;Europe;2016;Co-author;english
+l. musco;Italy;Europe;2010;Corresponding;english
+l. musco;Italy;Europe;2005;Corresponding;english
+l. neal;United Kingdom;Europe;2018;Corresponding;english
+l. neal;United Kingdom;Europe;2015;Co-author;english
+l. r. j. dixon;United Kingdom;Europe;1998;Co-author;english
+l. s. mullineaux;United States of America;North America;2009;Co-author;english
+l. sanvicente-anorve;Mexico;LAC;2005;Corresponding;english
+l. w. cooper;United States of America;North America;2018;Co-author;english
+l. williams;South Africa;Africa;2016;Co-author;english
+m. a. curtis;Canada;North America;1972;Corresponding;english
+m. a. fernandez-alamo;Mexico;LAC;1996;Corresponding;english
+m. a. fernandez-alamo;Mexico;LAC;2006;Corresponding;english
+m. a. fernandez-alamo;Mexico;LAC;2005;Co-author;english
+m. a. iannotta;Italy;Europe;2007;Corresponding;english
+m. a. iannotta;Italy;Europe;2009;Co-author;english
+m. a. meca;Spain;Europe;2019;Corresponding;english
+m. a. olson;Canada;North America;2009;Corresponding;english
+m. a. pancucci-papadopoulou;Greece;Europe;1999;Co-author;english
+m. a. russello;United States of America;North America;2009;Co-author;english
+m. a. tovar-hernandez;Mexico;LAC;2016;Co-author;english
+m. a. v. petti;Brazil;LAC;2001;Co-author;english
+m. al-kandari;Kuwait;Asia;2017;Co-author;english
+m. ambrosino;Italy;Europe;2007;Co-author;english
+m. b. black;Canada;North America;1996;Co-author;english
+m. b. roberts;Saudi Arabia;Asia;2016;Co-author;english
+m. bhaud;France;Europe;1998;Corresponding;english
+m. bhaud;France;Europe;1992;Co-author;english
+m. bhaud;France;Europe;2006;Co-author;english
+m. boggemann;Germany;Europe;2003;Corresponding;english
+m. bustamante;Spain;Europe;2018;Co-author;english
+m. c. brito;Spain;Europe;1992;Corresponding;english
+m. c. comas;Spain;Europe;2011;Co-author;english
+m. c. gambi;Italy;Europe;1999;Corresponding;english
+m. c. gambi;Italy;Europe;2000;Co-author;english
+m. c. gambi;Italy;Europe;2009;Co-author;english
+m. c. gambi;Italy;Europe;2011;Co-author;english
+m. c. gambi;Italy;Europe;2007;Co-author;english
+m. c. gombi;Italy;Europe;2001;Co-author;english
+m. c. l. coutinho;Brazil;LAC;2019;Co-author;english
+m. c. lloyd;United States of America;North America;1973;Co-author;english
+m. capa;Australia;Oceania;2010;Corresponding;english
+m. capa;Spain;Europe;2019;Co-author;english
+m. capa;Spain;Europe;2018;Co-author;english
+m. capa;Spain;Europe;2001;Corresponding;spanish
+m. d. richmond;United Republic of Tanzania;Africa;2001;Corresponding;english
+m. d'alessandro;Italy;Europe;2016;Corresponding;english
+m. di domenico;Brazil;LAC;2017;Co-author;english
+m. diaz-jaramillo;Chile;LAC;2008;Corresponding;english
+m. e. cinar;Turkey;Asia;1999;Corresponding;english
+m. e. cinar;Turkey;Asia;2013;Corresponding;english
+m. e. cinar;Turkey;Asia;2005;Co-author;english
+m. e. rice;United States of America;North America;1981;Corresponding;english
+m. e. rice;United States of America;North America;2018;Co-author;english
+m. e. rice;United States of America;North America;1999;Co-author;english
+m. e. rice;United States of America;North America;1990;Co-author;english
+m. g. chapman;Australia;Oceania;2007;Co-author;english
+m. g. reuscher;United States of America;North America;2014;Corresponding;english
+m. glemarec;France;Europe;1991;Corresponding;english
+m. gotting;Germany;Europe;2019;Co-author;english
+m. h. eilertsen;Norway;Europe;2018;Corresponding;english
+m. h. londono-mesa;Colombia;LAC;2016;Co-author;english
+m. h. londono-mesa;Colombia;LAC;2014;Co-author;english
+m. hardman;Finland;Europe;2011;Co-author;english
+m. j. boyle;United States of America;North America;2018;Corresponding;english
+m. j. brasier;United Kingdom;Europe;2017;Corresponding;english
+m. j. brasier;United Kingdom;Europe;2018;Co-author;english
+m. j. gibbons;South Africa;Africa;2015;Corresponding;english
+m. j. lopez-aquino;Mexico;LAC;2019;Co-author;english
+m. j. tremblay;Canada;North America;1987;Co-author;english
+m. jing;China;Asia;2018;Co-author;english
+m. k. leontovich;Russia;Europe;2012;Co-author;english
+m. kedra;Poland;Europe;2007;Corresponding;english
+m. kedra;Poland;Europe;2008;Corresponding;english
+m. kedra;Poland;Europe;2018;Corresponding;english
+m. klautau;Brazil;LAC;2010;Co-author;english
+m. l. christoffersen;Brazil;LAC;2017;Co-author;english
+m. l. jaubet;Argentina;LAC;2017;Co-author;spanish
+m. lehtiniemi;Germany;Europe;2016;Co-author;english
+m. licciano;Italy;Europe;2004;Co-author;english
+m. licciano;Italy;Europe;2007;Co-author;english
+m. liu;China;Asia;2012;Corresponding;english
+m. m. rivadeneira;Chile;LAC;2008;Co-author;english
+m. m. rivadeneira;United States of America;North America;2006;Co-author;english
+m. n. ben-eliahu;Israel;Asia;1982;Corresponding;english
+m. n. ben-eliahu;Israel;Asia;1996;Corresponding;english
+m. n. georgieva;United Kingdom;Europe;2015;Corresponding;english
+m. n. georgieva;United Kingdom;Europe;2018;Co-author;english
+m. n. halt;Australia;Oceania;2009;Corresponding;english
+m. p. harris;Ecuador;LAC;1968;Co-author;english
+m. p. miglietta;United States of America;North America;2010;Corresponding;english
+m. r. bhaud;France;Europe;2002;Corresponding;english
+m. r. bhaud;France;Europe;2001;Corresponding;english
+m. r. bhaud;United Kingdom;Europe;2005;Corresponding;english
+m. rohner;Germany;Europe;1997;Co-author;english
+m. rojas;Chile;LAC;1978;Co-author;spanish
+m. ros;Spain;Europe;2010;Co-author;spanish
+m. santana;Chile;LAC;2004;Co-author;english
+m. sato;Japan;Asia;2010;Co-author;english
+m. schuller;Germany;Europe;2007;Corresponding;english
+m. schuller;Germany;Europe;2011;Corresponding;english
+m. schuller;Germany;Europe;2014;Corresponding;english
+m. schuller;Germany;Europe;2012;Corresponding;english
+m. schuller;Germany;Europe;2009;Co-author;english
+m. shimabukuro;Brazil;LAC;2016;Co-author;english
+m. sibuet;France;Europe;1998;Corresponding;english
+m. t. aguado;Spain;Europe;2019;Corresponding;english
+m. t. aguado;Spain;Europe;2015;Corresponding;english
+m. t. jolly;France;Europe;2005;Corresponding;english
+m. t. jolly;France;Europe;2003;Corresponding;english
+m. t. jolly;United Kingdom;Europe;2006;Corresponding;english
+m. taheri;Iran;Asia;2013;Co-author;english
+m. virgilio;Belgium;Europe;2009;Corresponding;english
+m. wlodarska-kowalczuk;Poland;Europe;2007;Corresponding;english
+m. wlodarska-kowalczuk;Poland;Europe;2008;Co-author;english
+n. cosson;France;Europe;1998;Co-author;english
+n. d. christie;South Africa;Africa;1974;Corresponding;english
+n. d. johnson;United States of America;North America;2016;Corresponding;english
+n. di pietro;Italy;Europe;2001;Co-author;english
+n. g. vinogradova;Russia;Europe;1997;Corresponding;english
+n. j. cutler;United States of America;North America;1990;Corresponding;english
+n. j. cutler;United States of America;North America;1984;Co-author;english
+n. j. cutler;United States of America;North America;1985;Co-author;english
+n. j. cutler;United States of America;North America;1987;Co-author;english
+n. j. cutler;United States of America;North America;1989;Co-author;english
+n. j. cutler;United States of America;North America;1980;Co-author;english
+n. m. ben-eliahu;Israel;Asia;2011;Corresponding;english
+n. rozbaczylo;Chile;LAC;2000;Corresponding;english
+n. rozbaczylo;Chile;LAC;2007;Co-author;english
+n. rozbaczylo;Chile;LAC;2005;Co-author;english
+n. rozbaczylo;Chile;LAC;2009;Co-author;spanish
+n. rozbaczylo;Chile;LAC;2004;Co-author;spanish
+n. rozbaczylo;Chile;LAC;2001;Co-author;spanish
+n. simboura;Greece;Europe;1989;Corresponding;english
+n. simboura;Greece;Europe;1994;Co-author;english
+n. steffani;South Africa;Africa;2015;Co-author;english
+n. tebble;United Kingdom;Europe;1960;Corresponding;english
+n. tebble;United Kingdom;Europe;1962;Corresponding;english
+n. w. v. wei;Australia;Oceania;2013;Corresponding;english
+n. w. v. wei;Australia;Oceania;2013;Co-author;english
+o. rozycki;Poland;Europe;1987;Corresponding;english
+p. a. hutchings;Australia;Oceania;2012;Co-author;english
+p. a. quijon;Canada;North America;2005;Corresponding;english
+p. a. ramey;United States of America;North America;2010;Co-author;english
+p. a. tyler;United Kingdom;Europe;2003;Corresponding;english
+p. c. lana;Brazil;LAC;1994;Corresponding;english
+p. c. lana;Brazil;LAC;2006;Co-author;english
+p. c. lana;Brazil;LAC;1987;Corresponding;portuguese
+p. c. lana;Brazil;LAC;2000;Co-author;portuguese
+p. c. paiva;Brazil;LAC;2019;Corresponding;english
+p. chevaldonne;United States of America;North America;1998;Co-author;english
+p. cossu;Italy;Europe;2015;Corresponding;english
+p. croskery;Canada;North America;1978;Corresponding;english
+p. drake;Spain;Europe;2019;Co-author;english
+p. drakopoulos;Greece;Europe;2002;Co-author;english
+p. f. lonsdale;United States of America;North America;1991;Co-author;english
+p. gillet;France;Europe;2003;Corresponding;english
+p. gillet;France;Europe;2000;Corresponding;english
+p. gillet;France;Europe;2002;Co-author;english
+p. gillet;France;Europe;2008;Co-author;english
+p. gillet;France;Europe;2020;Co-author;english
+p. gillet;France;Europe;1991;Corresponding;english
+p. hernandez-alcantara;Mexico;LAC;1999;Corresponding;english
+p. hernandez-alcantara;Mexico;LAC;2013;Corresponding;english
+p. hernandez-alcantara;Mexico;LAC;2013;Co-author;english
+p. hernandez-alcantara;Mexico;LAC;1997;Co-author;english
+p. hernandez-alcantara;Mexico;LAC;1994;Corresponding;spanish
+p. hutchings;Australia;Oceania;1991;Corresponding;english
+p. hutchings;Australia;Oceania;2018;Corresponding;english
+p. hutchings;Australia;Oceania;2015;Co-author;english
+p. j. d. lambshead;United Kingdom;Europe;1995;Co-author;english
+p. j. somerfield;United Kingdom;Europe;2009;Co-author;english
+p. j. vine;United Kingdom;Europe;1972;Corresponding;english
+p. k. probert;New Zealand;Oceania;1996;Corresponding;english
+p. knight-jones;United Kingdom;Europe;1979;Corresponding;english
+p. knight-jones;United Kingdom;Europe;1991;Corresponding;english
+p. lanera;Italy;Europe;1997;Co-author;english
+p. lattig;Spain;Europe;2017;Corresponding;english
+p. munoz;Chile;LAC;2008;Co-author;english
+p. oromi;Spain;Europe;2009;Co-author;english
+p. pocklington;Canada;North America;1987;Corresponding;english
+p. pocklington;Canada;North America;1991;Corresponding;english
+p. rengaiyan;India;Asia;2017;Co-author;english
+p. rosenfeldt;Germany;Europe;1989;Co-author;english
+p. sordino;Switzerland;Europe;1997;Co-author;english
+p. tomassetti;Italy;Europe;2011;Co-author;english
+p. u. blier;Canada;North America;2003;Corresponding;english
+p. v. r. snelgrove;United States of America;North America;2005;Co-author;english
+p. v. uschakov;Russia;Europe;1971;Corresponding;english
+p. wirtz;Portugal;Europe;2000;Corresponding;english
+p. y. g. sumida;Brazil;LAC;2016;Corresponding;english
+q. li;China;Asia;2014;Corresponding;english
+r. a. lutz;United States of America;North America;2004;Co-author;english
+r. a. moreno;Chile;LAC;2007;Corresponding;english
+r. a. moreno;Chile;LAC;2006;Corresponding;english
+r. a. moreno;Chile;LAC;2008;Corresponding;english
+r. a. moreno;Chile;LAC;2005;Co-author;english
+r. b. emlet;United States of America;North America;2012;Co-author;english
+r. bargagli;Italy;Europe;2010;Co-author;english
+r. barnich;Germany;Europe;2003;Corresponding;english
+r. barnich;Germany;Europe;2009;Co-author;english
+r. barroso;Brazil;LAC;2010;Corresponding;english
+r. barroso;Brazil;LAC;2012;Co-author;english
+r. bastrop;Germany;Europe;1997;Corresponding;english
+r. bastrop;Germany;Europe;1998;Co-author;english
+r. bastrop;Germany;Europe;2019;Co-author;english
+r. bastrop;Germany;Europe;2008;Co-author;english
+r. biseswar;South Africa;Africa;2012;Corresponding;english
+r. biseswar;South Africa;Africa;2010;Corresponding;english
+r. biseswar;South Africa;Africa;2009;Corresponding;english
+r. biseswar;South Africa;Africa;2019;Corresponding;english
+r. biseswar;South Africa;Africa;1985;Corresponding;english
+r. c. vrijenhoek;United States of America;North America;2011;Corresponding;english
+r. c. vrijenhoek;United States of America;North America;2010;Co-author;english
+r. c. vrijenhoek;United States of America;North America;2004;Co-author;english
+r. castilho;Portugal;Europe;2018;Co-author;english
+r. d. sepulveda;Chile;LAC;2007;Co-author;english
+r. elias;Argentina;LAC;2000;Co-author;english
+r. elias;Argentina;LAC;2017;Corresponding;spanish
+r. goto;Japan;Asia;2017;Corresponding;english
+r. goto;United States of America;North America;2016;Corresponding;english
+r. he;United States of America;North America;2012;Co-author;english
+r. hessling;Germany;Europe;2003;Co-author;english
+r. holopainen;Finland;Europe;2016;Corresponding;english
+r. j. scott;South Africa;Africa;2012;Co-author;english
+r. m. jennings;United States of America;North America;2009;Corresponding;english
+r. m. warwick;United Kingdom;Europe;2006;Co-author;english
+r. mukai;Japan;Asia;2018;Co-author;english
+r. n. zajac;United States of America;North America;2009;Co-author;english
+r. nilsen;Norway;Europe;1985;Corresponding;english
+r. p. dales;United States of America;North America;1957;Corresponding;english
+r. r. hessler;United States of America;North America;1991;Corresponding;english
+r. riera;Spain;Europe;1999;Co-author;spanish
+r. s. scheltema;United States of America;North America;1997;Corresponding;english
+r. s. scheltema;United States of America;North America;1990;Corresponding;english
+r. s. scheltema;United States of America;North America;1986;Corresponding;english
+r. s. scheltema;United States of America;North America;1975;Corresponding;english
+r. simonini;Italy;Europe;2009;Corresponding;english
+r. w. pennak;United States of America;North America;1971;Corresponding;english
+r. y. levenstein;Russia;Europe;1972;Corresponding;english
+s. a. rice;United States of America;North America;2008;Corresponding;english
+s. a. selim;Egypt;Africa;2009;Corresponding;english
+s. a. woodin;United States of America;North America;2014;Corresponding;english
+s. a. woodin;United States of America;North America;2011;Co-author;english
+s. a. woodin;United States of America;North America;2016;Co-author;english
+s. a. woodin;United States of America;North America;2008;Co-author;english
+s. acik;Turkey;Asia;2010;Corresponding;english
+s. acik;Turkey;Asia;2018;Corresponding;english
+s. acik;Turkey;Asia;2020;Corresponding;english
+s. acik;Turkey;Asia;2005;Corresponding;english
+s. acik;Turkey;Asia;2017;Corresponding;english
+s. acik;Turkey;Asia;2016;Co-author;english
+s. albrecht;Germany;Europe;2006;Co-author;english
+s. aliani;Italy;Europe;2019;Co-author;english
+s. aliani;United States of America;North America;2003;Co-author;english
+s. b. johnson;United States of America;North America;2011;Co-author;english
+s. brault;United States of America;North America;2017;Co-author;english
+s. breton;Canada;North America;2003;Co-author;english
+s. e. humphris;United States of America;North America;2001;Co-author;english
+s. f. dubois;France;Europe;2014;Co-author;english
+s. ge;China;Asia;2012;Co-author;english
+s. gromisz;Poland;Europe;2007;Co-author;english
+s. herrando-perez;Spain;Europe;2001;Corresponding;english
+s. hourdez;France;Europe;2010;Co-author;english
+s. hourdez;France;Europe;2007;Co-author;english
+s. hourdez;United States of America;North America;2003;Co-author;english
+s. i. salazar-vallejo;Mexico;LAC;1986;Corresponding;english
+s. i. salazar-vallejo;Mexico;LAC;1992;Corresponding;english
+s. j. b. cooper;Australia;Oceania;2009;Co-author;english
+s. j. jang;South Korea;Asia;2016;Co-author;english
+s. j. song;South Korea;Asia;2014;Co-author;english
+s. j. sorokin;Australia;Oceania;2018;Co-author;english
+s. k. berke;United States of America;North America;2010;Corresponding;english
+s. k. berke;United States of America;North America;2012;Corresponding;english
+s. k. berke;United States of America;North America;2016;Co-author;english
+s. k. sivadas;India;Asia;2016;Corresponding;english
+s. karl;United States of America;North America;2008;Co-author;english
+s. l. carney;United States of America;North America;2007;Co-author;english
+s. l. gardiner;United States of America;North America;1975;Corresponding;english
+s. l. grove;New Zealand;Oceania;1996;Co-author;english
+s. lomiri;Italy;Europe;2011;Co-author;english
+s. m. bybee;United States of America;North America;2010;Co-author;english
+s. m. hardy;United States of America;North America;2011;Corresponding;english
+s. m. hardy;United States of America;North America;2011;Co-author;english
+s. mariani;Italy;Europe;1999;Co-author;english
+s. n. brandao;Germany;Europe;2007;Co-author;english
+s. ohta;Japan;Asia;1995;Co-author;english
+s. olenin;Lithuania;Europe;2001;Co-author;english
+s. pagola-carte;Spain;Europe;1999;Co-author;english
+s. plouviez;France;Europe;2009;Corresponding;english
+s. plouviez;France;Europe;2010;Co-author;english
+s. r. gelder;United Kingdom;Europe;1974;Corresponding;english
+s. r. mincks;United States of America;North America;2008;Co-author;english
+s. r. mincks;United States of America;North America;2006;Co-author;english
+s. s. nihei;Brazil;LAC;2006;Co-author;english
+s. sakamoto;Japan;Asia;2017;Co-author;english
+s. sedick;South Africa;Africa;2015;Co-author;english
+s. t. ahyong;Australia;Oceania;2017;Corresponding;english
+s. t. ahyong;Australia;Oceania;2000;Co-author;english
+s. t. ahyong;Australia;Oceania;2018;Co-author;english
+s. taboada;United Kingdom;Europe;2018;Co-author;english
+s. thatje;United Kingdom;Europe;2009;Corresponding;english
+s. villora-moreno;Spain;Europe;1997;Corresponding;english
+s. w. schaeffer;United States of America;North America;2016;Co-author;english
+s. w. schaeffer;United States of America;North America;2003;Co-author;english
+s. y. gagaev;Russia;Europe;2006;Corresponding;english
+t. b. robinson;South Africa;Africa;2012;Co-author;english
+t. c. shirley;United States of America;North America;2014;Co-author;english
+t. comtet;France;Europe;1998;Co-author;english
+t. g. pillai;United Kingdom;Europe;2009;Corresponding;english
+t. g. pillai;United Kingdom;Europe;2008;Corresponding;english
+t. h. hsu;Taiwan;Asia;2013;Co-author;english
+t. h. struck;Norway;Europe;2017;Corresponding;english
+t. haag;Brazil;LAC;2016;Co-author;english
+t. holthe;Norway;Europe;1978;Corresponding;english
+t. holthe;Norway;Europe;1985;Co-author;english
+t. j. hilbish;United States of America;North America;2011;Co-author;english
+t. l. jenkins;United Kingdom;Europe;2018;Co-author;english
+t. m. brown;Canada;North America;2011;Co-author;english
+t. m. iliffe;United States of America;North America;2009;Co-author;english
+t. m. shank;France;Europe;2009;Co-author;english
+t. m. shank;United States of America;North America;2009;Co-author;english
+t. m. shank;United States of America;North America;2007;Co-author;english
+t. nishikawa;Japan;Asia;1984;Co-author;english
+t. p. poe;United States of America;North America;1974;Corresponding;english
+t. romeo;Italy;Europe;2016;Co-author;english
+t. timm;Estonia;Europe;2008;Co-author;english
+u. n. safriel;Israel;Asia;1982;Co-author;english
+v. c. seixas;Brazil;LAC;2017;Corresponding;english
+v. delgado-blas;Mexico;LAC;2008;Co-author;english
+v. fernandez-rodriguez;Colombia;LAC;2016;Corresponding;english
+v. fernandez-rodriguez;Colombia;LAC;2014;Co-author;english
+v. grandi;Italy;Europe;2009;Co-author;english
+v. h. delgado-blas;Mexico;LAC;2001;Corresponding;spanish
+v. islas-villanueva;Mexico;LAC;2019;Co-author;english
+v. j. cole;Australia;Oceania;2007;Corresponding;english
+v. j. cole;South Africa;Africa;2010;Corresponding;english
+v. l. syomin;Russia;Europe;2016;Corresponding;english
+v. mamouridis;Spain;Europe;2014;Co-author;english
+v. rousset;Sweden;Europe;2013;Co-author;english
+v. s. kennedy;United States of America;North America;1985;Corresponding;english
+v. solis-weiss;Mexico;LAC;2013;Corresponding;english
+v. solis-weiss;Mexico;LAC;1999;Co-author;english
+v. solis-weiss;Mexico;LAC;2013;Co-author;english
+v. solis-weiss;Mexico;LAC;1992;Co-author;english
+v. solis-weiss;Mexico;LAC;1997;Co-author;english
+v. solis-weiss;Mexico;LAC;2000;Co-author;spanish
+v. solis-weiss;Mexico;LAC;1994;Co-author;spanish
+v. souto;Argentina;LAC;2010;Co-author;english
+v. surugiu;Romania;Europe;2008;Corresponding;english
+v. surugiu;Romania;Europe;2008;Co-author;english
+v. tunnicliffe;Canada;North America;1998;Corresponding;english
+v. tunnicliffe;Canada;North America;1996;Co-author;english
+v. v. murina;Ukraine;Europe;2018;Corresponding;english
+w. e. arntz;Germany;Europe;2005;Co-author;english
+w. f. magalhaes;United States of America;North America;2017;Co-author;english
+w. sterrer;United Kingdom;Europe;1973;Corresponding;english
+w. westheide;Germany;Europe;1999;Co-author;english
+w. westheide;Germany;Europe;2003;Co-author;english
+w. westheide;Germany;Europe;1998;Co-author;english
+x. du;China;Asia;2009;Corresponding;english
+x. wu;China;Asia;2019;Co-author;english
+y. davila;Mexico;LAC;2014;Co-author;spanish
+y. del-pilar-ruso;Spain;Europe;2013;Co-author;english
+y. deng;China;Asia;2009;Co-author;english
+y. j. won;South Korea;Asia;2016;Corresponding;english
+y. ning;China;Asia;2013;Co-author;english
+y. schaeffer;Brazil;LAC;1972;Corresponding;portuguese
+y. sun;Australia;Oceania;2000;Corresponding;english
+y. sun;Australia;Oceania;2016;Corresponding;english
+y. sun;Australia;Oceania;2018;Corresponding;english
+y. sun;Australia;Oceania;2017;Corresponding;english
+y. sun;Australia;Oceania;2017;Co-author;english
+y. zhou;China;Asia;2019;Co-author;english
+y. zhou;China;Asia;2018;Co-author;english
+z. chen;China;Asia;2009;Co-author;english
+z. ergen;Turkey;Asia;1999;Co-author;english
+z. n. zeng;China;Asia;2013;Corresponding;english
+z. zhan;China;Asia;2019;Co-author;english
